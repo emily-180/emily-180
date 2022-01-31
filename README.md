@@ -9,6 +9,12 @@
 
 - 📄 Aqui estão minhas habilidades [emily-moreira-ferreira-563269230](emily-moreira-ferreira-563269230)
 
+<div align="center">
+  <a href="https://github.com/emily-180">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emily-moreira-ferreira-563269230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily-moreira-ferreira-563269230" height="30" width="40" /></a>
