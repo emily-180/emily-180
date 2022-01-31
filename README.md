@@ -15,8 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-180&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://linkedin.com/in/emily-moreira-ferreira-563269230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emily-moreira-ferreira-563269230" height="30" width="40" /></a>
 <a href="https://fb.com/emily.ferreira.1829405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emily.ferreira.1829405" height="30" width="40" /></a>
 <a href="https://instagram.com/emily_ferreira345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emily_ferreira345" height="30" width="40" /></a>
