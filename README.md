@@ -21,6 +21,7 @@
   <a href = "mailto:emily.moreira.8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emily-moreira-ferreira-563269230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/emily-180/emily-180/blob/output/github-contribution-grid-snake.svg)
   
  
 </div> 
