@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou a Emily Ferreira</h1>
 <h3 align="center">Apaixonada pela programação e suas tecnolgias!</h3>
 
-- 🌱 Atualmente estou aprendendo **C++**
+- 🌱 Atualmente estou aprendendo **C**
 
 - 💬 Me pergunte sobre **SQL, Python, Java Web e PHP**
 
